@@ -29,6 +29,10 @@ An extended-star topology was selected for the branch office. The firewall/route
 
 This design allows the network to be expanded and managed more easily while limiting the impact of individual device or cable failures. VLANs are used to separate employee, printer, voice/video, and guest wireless traffic for improved performance and security.
 
+### Network Diagram
+
+![Branch office network architecture showing VLAN segmentation and site-to-site VPN connectivity](network_diagram.png)
+
 ## IP Addressing and VLAN Plan
 
 The network uses separate private subnets for different device groups to improve organization, security, and performance.
